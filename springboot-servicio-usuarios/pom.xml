@@ -61,8 +61,8 @@
 			<artifactId>spring-boot-starter-data-rest</artifactId>
 		</dependency>
 		<dependency>
-			<groupId>com.microservicios.springboot.app.usuarios.commons</groupId>
-			<artifactId>springboot-servicio-usuarios-commons</artifactId>
+			<groupId>com.microservicios.springboot.app.usercom.commons</groupId>
+			<artifactId>springboot-servicio-usercom-commons</artifactId>
 			<version>0.0.1-SNAPSHOT</version>
 		</dependency>
 	</dependencies>
